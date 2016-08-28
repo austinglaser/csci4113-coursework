@@ -1,0 +1,9 @@
+The most confusing thing from Chapter 2 in ULSAH4 is without a doubt the section
+about bash arrays. bash certainly doesn't set itself up to be a general purpose
+programming language, but the sheer ugliness of array syntax is impressive. I
+suppose there's a reason that "arrays in bash are a bit strange, and they're not
+often used."
+
+With that said, I'm glad the text clarified that all values in bash are really
+just strings. When thought of in those terms, it makes some sense that integer
+arithmetic and array indexing requires special syntax.
